@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Bonnie Cross is a professor of English at Valencia College and a PhD student at the University of Central Florida. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Bonnie Cross is a professor of English at Valencia College and a PhD student at the University of Central Florida. Her research interests include neuroscience and literature, Digital Humanities, and Media Studies. 
