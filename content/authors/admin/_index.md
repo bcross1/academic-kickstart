@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Texts and Technology
+  - course: PhD in Texts and Technology Present Student 
     institution: University of Central Florida
   #  year:
   - course: Master of Arts in English
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Bonnie Cross is a professor of English at Valencia College and a PhD student at the University of Central Florida. Her research interests include neuroscience and literature, Digital Humanities, and Media Studies. 
+Bonnie Cross is a professor of English at Valencia College and a PhD student at the University of Central Florida. Her research interests include neuroscience and literature, Digital Humanities, and Media Studies.
