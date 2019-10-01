@@ -14,7 +14,7 @@ role: Associate Professor of English
 
 # Organizations/Affiliations
 organizations:
-- name: University of Central Florida and Valencia College
+- name: Valencia College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Texts and Technology Present Student 
+  - course: PhD in Texts and Technology, Present 
     institution: University of Central Florida
   #  year:
   - course: Master of Arts in English
