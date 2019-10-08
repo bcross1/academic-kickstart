@@ -29,16 +29,18 @@ date_format = "Jan 2006"
 
   * Teaching
   * Tutoring
-  
+
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  [[experience]]
+    title = "Professor"
+    company = "Community College of Allegheny County"
+    company_url = ""
+    location = "Pittsburgh, Pennsylvania"
+    date_start = "2013-08-01"
+    date_end = "2017-06-20"
+    description = """
+    Responsibilities include:
 
-+++
+    * Teaching
+    * Tutoring
