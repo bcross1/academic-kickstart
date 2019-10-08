@@ -29,16 +29,5 @@ date_format = "Jan 2006"
 
   * Teaching
   * Tutoring
-  [[experience]]
-    title = "Professor"
-    company = "Community College of Allegheny County"
-    company_url = ""
-    location = "Pittsburgh"
-    date_start = "2013-07-01"
-    date_end = "2017-06-20"
-    description = """
-    Responsibilities include:
 
-    * Teaching
-    * Tutoring
   """
