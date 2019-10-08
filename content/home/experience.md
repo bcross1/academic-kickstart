@@ -29,12 +29,12 @@ date_format = "Jan 2006"
 
   * Teaching
   * Tutoring
-  
+
   """
 
 [[experience]]
   title = "Professor"
-  company = "University X"
+  company = "Community College of Allegheny County"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
