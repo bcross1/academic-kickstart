@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2017-05-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
-+++
+  """
 
 [[experience]]
   title = "Professor"
@@ -56,4 +56,4 @@ date_format = "Jan 2006"
   * Teaching
   * Tutoring
 
-  """
+  +++
