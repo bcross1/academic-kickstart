@@ -35,10 +35,25 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Professor"
   company = "Community College of Allegheny County"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  company_url = "https://www.ccac.edu/"
+  location = "Pittsburgh, Pennsylvania"
+  date_start = "2013-07-01"
+  date_end = "2017-05-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
+
+[[experience]]
+  title = "Professor"
+  company = "Westmoreland Community College"
+  company_url = "https://westmoreland.edu/"
+  location = "Pittsburgh, Pennsylvania"
+  date_start = "2014-07-01"
+  date_end = "2017-05-01"
+  description = """
+  Responsibilities include:
+
+  * Teaching
+  * Tutoring
+
+  """
