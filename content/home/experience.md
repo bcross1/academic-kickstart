@@ -32,6 +32,21 @@ date_format = "Jan 2006"
 
   """
 
+  [[experience]]
+    title = "Professor"
+    company = "Valencia College"
+    company_url = ""
+    location = "Orlando, Florida"
+    date_start = "2017-07-01"
+    date_end = ""
+    description = """
+    Responsibilities include:
+
+    * Teaching
+    * Tutoring
+
+    """
+
 [[experience]]
   title = "Professor"
   company = "Community College of Allegheny County"
