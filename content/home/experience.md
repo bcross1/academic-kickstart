@@ -46,12 +46,12 @@ date_format = "Jan 2006"
     """
 
 [[experience]]
-  title = "Professor"
+  title = "Adjunct Professor"
   company = "Community College of Allegheny County"
   company_url = "https://www.ccac.edu/"
   location = "Pittsburgh, Pennsylvania"
   date_start = "2013-07-01"
   date_end = "2017-07-31"
-  description = """Taught Composition and Literature."""
+  description = """
 
 +++
