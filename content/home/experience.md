@@ -38,7 +38,7 @@ date_format = "Jan 2006"
     company_url = ""
     location = "Pittsburgh, Pennsylvania"
     date_start = "2017-07-01"
-    date_end = "2013-07-31"
+    date_end = "2013-05-01"
     description = """Taught Composition and Speech."""
 
 
