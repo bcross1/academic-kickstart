@@ -20,15 +20,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Professor"
   company = "Valencia College"
-  company_url = ""
+  company_url = "https://valenciacollege.edu/"
   location = "Orlando, Florida"
   date_start = "2017-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
 
-  * Teaching
-  * Tutoring
 
   """
 
@@ -52,6 +49,6 @@ date_format = "Jan 2006"
   location = "Pittsburgh, Pennsylvania"
   date_start = "2013-07-01"
   date_end = "2017-07-31"
-  
+
 
 +++
