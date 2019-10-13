@@ -33,17 +33,17 @@ date_format = "Jan 2006"
   """
 
   [[experience]]
-    title = "Professor"
-    company = "Valencia College"
+    title = "Adjunct Professor"
+    company = "Westmoreland County Community College"
     company_url = ""
-    location = "Orlando, Florida"
+    location = "Pittsburgh, Pennsylvania"
     date_start = "2017-07-01"
-    date_end = ""
+    date_end = "2013-05-01"
     description = """
     Responsibilities include:
 
-    * Teaching
-    * Tutoring
+    #* Teaching
+    #* Tutoring
 
     """
 
