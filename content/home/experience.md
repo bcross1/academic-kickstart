@@ -40,7 +40,7 @@ date_format = "Jan 2006"
     date_start = "2017-07-01"
     date_end = "2013-05-01"
     description = """
-    
+
 
 
 
@@ -50,9 +50,9 @@ date_format = "Jan 2006"
   title = "Professor"
   company = "Community College of Allegheny County"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Pittsburgh, Pennsylvania"
+  date_start = "2014-07-01"
+  date_end = "2017-07-31"
+  description = """
 
 +++
