@@ -20,11 +20,11 @@ subtitle = ""
   name = "zotero"
   description = "100%"
 
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  [[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "60%"  
 
 [[feature]]
   icon = "camera-retro"
