@@ -40,10 +40,10 @@ date_format = "Jan 2006"
     date_start = "2017-07-01"
     date_end = "2013-05-01"
     description = """
-    #Responsibilities include:
+    Responsibilities include:
 
-    #* Teaching
-    #* Tutoring
+    * Teaching
+    * Tutoring
 
     """
 
