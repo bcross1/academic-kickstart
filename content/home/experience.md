@@ -39,7 +39,7 @@ date_format = "Jan 2006"
     location = "Pittsburgh, Pennsylvania"
     date_start = "2017-07-01"
     date_end = "2013-05-01"
-    description = """
+    description = """Taught Composition and Speech."""
 
 
 
