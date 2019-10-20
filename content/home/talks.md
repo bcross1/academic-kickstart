@@ -68,16 +68,15 @@ subtitle = ""
  css_class = ""
 +++
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-page_type = "talk"
+#page_type = "talk"
 title: "“Is That...Moving? Aesthetics of Animated Horror Stories"
 event: College English Association
-event_url:
+#event_url:
 location: New Orleans
-address:
-street:
-city:
-region:
+#address:
+#street:
+#city:
+#region:
 postcode:
 country:
 summary:
