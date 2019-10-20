@@ -70,10 +70,10 @@ subtitle = ""
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Plundered Hearts: The Mostly Forgotten History of Romance Games"
-event: Society for Cinema and Media Studies
+title: "Is That...Moving? Aesthetics of Animated Horror Stories"
+event: College English Association
 event_url:
-location: Seattle
+location: New Orleans
 address:
 street:
 city:
@@ -85,15 +85,15 @@ abstract:
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-01-03T20:40:11-04:00
+date: 2019-03-03T20:40:11-04:00
 #date_end: 2019-01-06T20:40:11-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-09T20:40:11-04:00
+#publishDate: 2019-10-09T20:40:11-04:00
 
-authors: []
-tags: []
+#authors: []
+#tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
