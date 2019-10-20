@@ -68,20 +68,12 @@ subtitle = ""
  css_class = ""
 +++
 ---
-# Documentation:https://sourcethemes.com/academic/docs/managing-content/
-[[item]]
-title= "Is That...Moving? Aesthetics of Animated Horror Stories"
+
+"Is That...Moving? Aesthetics of Animated Horror Stories"
 event: College English Association
-#event_url:
 location: New Orleans
-#address:
-#street:
-#city:
-#region:
-#postcode:
-#country:
-#summary:
-#abstract:
+
+
 
 #Talk start and end times.
 #End time can optionally be hidden by prefixing the line with `#`.
