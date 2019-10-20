@@ -13,10 +13,47 @@ subtitle = ""
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
-  
+
+[Talk]
+title: "Plundered Hearts: The Mostly Forgotten History of Romance Games"
+event: Society for Cinema and Media Studies
+event_url:
+location: Seattle
+address:
+street:
+city:
+region:
+postcode:
+country:
+summary:
+abstract:
+
+# Talk start and end times.
+# End time can optionally be hidden by prefixing the line with `#`.
+date: 2019-01-03T20:40:11-04:00
+#date_end: 2019-01-06T20:40:11-04:00
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: 2019-10-09T20:40:11-04:00
+
+authors: []
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+caption: ""
+focal_point: ""
+preview_only: false
+
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
-  
+
   # Choose how many pages you would like to offset by
   offset = 0
 
@@ -31,7 +68,7 @@ subtitle = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -39,7 +76,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
-  
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -48,22 +85,22 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
