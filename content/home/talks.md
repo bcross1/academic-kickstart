@@ -66,7 +66,7 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
----
++++
 ---
 #page_type = "talk"
 title: "“Is That...Moving? Aesthetics of Animated Horror Stories"
