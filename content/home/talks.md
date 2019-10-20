@@ -68,8 +68,7 @@ subtitle = ""
  css_class = ""
 +++
 ---
-#page_type = "talk"
-title: "“Is That...Moving? Aesthetics of Animated Horror Stories"
+page_type: "Is That...Moving? Aesthetics of Animated Horror Stories"
 event: College English Association
 #event_url:
 location: New Orleans
