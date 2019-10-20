@@ -68,8 +68,6 @@ subtitle = ""
  css_class = ""
 +++
 ---
-# Documentation:https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Is That...Moving? Aesthetics of Animated Horror Stories"
 event: College English Association
 #event_url:
