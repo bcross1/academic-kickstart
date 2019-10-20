@@ -66,8 +66,7 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
-+++
----
+
 # Documentation:https://sourcethemes.com/academic/docs/managing-content/
 [[item]]
 title= "Is That...Moving? Aesthetics of Animated Horror Stories"
