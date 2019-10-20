@@ -68,23 +68,23 @@ subtitle = ""
  css_class = ""
 +++
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation:https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Is That...Moving? Aesthetics of Animated Horror Stories"
 event: College English Association
-event_url:
+#event_url:
 location: New Orleans
-address:
-street:
-city:
-region:
-postcode:
-country:
-summary:
-abstract:
+#address:
+#street:
+#city:
+#region:
+#postcode:
+#country:
+#summary:
+#abstract:
 
-# Talk start and end times.
-# End time can optionally be hidden by prefixing the line with `#`.
+#Talk start and end times.
+#End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-03-03T20:40:11-04:00
 #date_end: 2019-01-06T20:40:11-04:00
 all_day: false
@@ -96,7 +96,7 @@ all_day: false
 #tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
