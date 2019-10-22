@@ -52,7 +52,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/bcross1
-- icon: CV
+- icon: cv
   icon_pack: ai
   link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
