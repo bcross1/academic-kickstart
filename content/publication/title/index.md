@@ -13,7 +13,7 @@ publishDate: 2019-10-21T20:56:48-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: http://thegrove.valenciacollege.edu/high-impact-practices-plan-results-bonnie-cross/?utm_source=PoliteMail&utm_medium=email&utm_content=Week+in+Review:+High+Impact+Practices+(HIP)+Plan+Results%2c+Poinciana+Campus+Celebrates+Hispanic+Heritage+Month%2c+It%E2%80%99s+Time+for+Early+Alert+Grade+Entry!&utm_campaign=2019-20%2c+OLNPCC
 url_video:
 
 # Featured image
