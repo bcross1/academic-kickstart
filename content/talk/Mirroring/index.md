@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: While it may appear that Through the Looking Glass is a series of random events, but reading Looking Glass though the cognitive lens as a series of mirroring actions, the structure follows a more logical flow. Mirror neurons allow humans to watch and mimic movements and actions. a critical skill for any social creature. In her desire to become a queen, Alice mirrors the actions of the inhabitants of the Looking Glass world to fit within their rules. However, when she is unable to follow the logic and mimic the motions of the denizens of the Looking Glass , she pulls herself out and rejects the fantasy world. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
