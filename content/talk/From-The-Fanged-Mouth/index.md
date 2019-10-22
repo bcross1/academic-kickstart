@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: Bram Stoker’s Dracula is dangerous, not only because of his supernatural powers, but through his ability to use language to manipulate humans. Dracula disrupts the flow of information through silence and the manipulation of information. Dracula is described as an animal figure through his physical description and his predatorial acts against humans, yet his use of written and spoken language complicates defining the vampire as either human or animal. Humans ultimately succeed by bridging the gaps of language and distance to gather the knowledge needed to destroy the vampire. However, Dracula threatens the barrier between the human and animal world through the vampire’s threats of silencing human speech and his ability to control the distribution of information despite his animalistic body.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
