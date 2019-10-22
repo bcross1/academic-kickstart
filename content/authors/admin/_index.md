@@ -54,7 +54,7 @@ social:
   link: https://github.com/bcross1
 - icon: CV
   icon_pack: ai
-  link: Bonnie Cross Resume updated/cv.pdf
+  link: Bonnie-Cross-Resume-updated/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
