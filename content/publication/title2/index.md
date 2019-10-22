@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Title2"
-authors: []
+title: "But They Talk: Historical and Modern Mechanisms Behind the Beast Folk’s Language in The Island of Dr. Moreau"
+authors: [Bonnie Cross]
 date: 2019-10-21T20:57:32-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-21T20:57:32-04:00
+publishDate: 2014-07-21T20:57:32-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,7 +46,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
