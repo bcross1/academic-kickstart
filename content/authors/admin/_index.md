@@ -15,7 +15,7 @@ role: Associate Professor of English
 # Organizations/Affiliations
 organizations:
 - name: Valencia College
-  url: ""
+  url: "https://valenciacollege.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include neuroscience and literature, digital humanities, and digital media.
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Bonnie Cross is a professor of English at Valencia College and a PhD student at the University of Central Florida. Her research interests include neuroscience and literature, Digital Humanities, and Media Studies.
+Bonnie Cross is an Associate Professor of English at Valencia College and a PhD student at the University of Central Florida. Her research interests include neuroscience and literature, Digital Humanities, and Media Studies.
