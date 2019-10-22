@@ -9,7 +9,7 @@ primary = "rgb(251, 191, 183)"
 
 # Menu
 menu_primary = "rgb(247, 247, 247)"
-menu_text = "#000"
+menu_text = "#0A1C54"
 menu_text_active = "rgb(25, 25, 25)"
 menu_title = "#000"
 
