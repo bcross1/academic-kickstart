@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mirroring"
-event:
+title: "Mirroring Mirrors: Mirror Neurons and Adaptation in Alice Through the Looking Glass"
+event: Victorian Institute’s Alice Through the Looking Glass
 event_url:
 location:
 address:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-21T20:30:11-04:00
-date_end: 2019-10-21T20:30:11-04:00
+date: 2013-11-21T20:30:11-04:00
+#date_end: 2019-10-21T20:30:11-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-21T20:30:11-04:00
+publishDate: 2013-11-21T20:30:11-04:00
 
 authors: []
 tags: []
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
