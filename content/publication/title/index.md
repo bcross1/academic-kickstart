@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Title"
-authors: []
+title: "Who Said What? Incorporating Quotations in Undergraduate Writing"
+authors: [Bonnie Cross]
 date: 2019-10-21T20:56:48-04:00
 doi: ""
 
@@ -42,11 +42,11 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source:http://thegrove.valenciacollege.edu/high-impact-practices-plan-results-bonnie-cross/?utm_source=PoliteMail&utm_medium=email&utm_content=Week+in+Review:+High+Impact+Practices+(HIP)+Plan+Results%2c+Poinciana+Campus+Celebrates+Hispanic+Heritage+Month%2c+It%E2%80%99s+Time+for+Early+Alert+Grade+Entry!&utm_campaign=2019-20%2c+OLNPCC
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
