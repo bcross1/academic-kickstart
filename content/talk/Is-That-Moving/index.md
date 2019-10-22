@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Is That Moving"
-event:
+title: "IIs That...Moving? Aesthetics of Animated Horror Stories"
+event: College English Association
 event_url:
 location:
 address:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-21T20:27:54-04:00
-date_end: 2019-10-21T20:27:54-04:00
+date: 2019-03-21T20:27:54-04:00
+#date_end: 2019-10-21T20:27:54-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-21T20:27:54-04:00
+publishDate: 2019-03-21T20:27:54-04:00
 
 authors: []
 tags: []
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
