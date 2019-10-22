@@ -19,7 +19,7 @@ publication_types: ["4"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "While all of my classes decreased the number of hanging quotes in their essays overall, there are some students who are still struggling to correct their citations. It seems that regular check-ins work very well to help students learn how to correct hanging quotes, but they still need work on recognizing them. It seemed that most of the students made corrections, but simply missed a few or struggled to understand the concept. The Citation Activity and the Source Activity did not predict if students would have hanging quotes in their essays, so I need to keep working on connecting these smaller assignments to the essays. For future work, I plan on adding more revision focus to have students point out their errors and correct them individually instead of in groups. Some of this also may be a time management issue while editing, so I will consider future options to help students structure their revision and identify citation errors for correction. Modality didn't seem to greatly affect the success of the students' work and face-to-face courses were given access to the videos about citation that the online class was given."
 
 # Summary. An optional shortened abstract.
 summary: ""
