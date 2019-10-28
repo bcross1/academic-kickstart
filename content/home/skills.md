@@ -18,18 +18,18 @@ subtitle = ""
   icon = "zotero"
   icon_pack = "ai"
   name = "zotero"
-  
+
 
   [[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "Git"
-  description = "60%"  
+
 
   [[feature]]
   icon = "markdown"
   icon_pack = "fab"
   name = "Markdown"
-  description = "50%"
+  
 
 +++
