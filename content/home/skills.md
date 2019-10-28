@@ -40,4 +40,9 @@ subtitle = ""
   icon = "springer"
   icon_pack = "ai"
   name = "Springer"
+
+  [[feature]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  name = "Google-Scholar"
 +++
