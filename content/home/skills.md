@@ -18,7 +18,7 @@ subtitle = ""
   icon = "zotero"
   icon_pack = "ai"
   name = "zotero"
-  description = "100%"
+  
 
   [[feature]]
   icon = "git"
