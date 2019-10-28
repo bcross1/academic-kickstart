@@ -36,4 +36,8 @@ subtitle = ""
   icon_pack = "ai"
   name = "Academia"
 
+  [[feature]]
+  icon = "springer"
+  icon_pack = "ai"
+  name = "Springer"
 +++
