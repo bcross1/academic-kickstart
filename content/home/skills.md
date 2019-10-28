@@ -30,6 +30,10 @@ subtitle = ""
   icon = "markdown"
   icon_pack = "fab"
   name = "Markdown"
-  
+
+  [[feature]]
+  icon = "academia"
+  icon_pack = "ai"
+  name = "Academia"
 
 +++
