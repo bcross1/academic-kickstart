@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: While the famous jump scare uses sudden sounds and images to frighten audiences, this is not the only technique that authors and artists use to reach out to their fright-loving audiences. Many scholars have discussed the “act of doing” in horror video games that forces the player to take an active role in engaging with the content. However, through Digital Humanities, the act of doing can also be applied to reading online horror stories. In some cases, stories are set up so the reader must actively scroll down to see the next panel or section of text, some purposely spaced further apart to draw out this moment, which increases a sense of anxiety as readers are forced to slowly move down the page. Other interactions include animated illustrations. Unlike jump scares, which are intended to be sudden but obvious, these animated panels or illustrations are often subtle. Readers are again forced to wait as they scan the page for changes, when the horrors are revealed. Brian Coldrick’s work in Behind You, provides a mixture of very short stories, often not even a full sentence, with a moving image. This combination provides a gap where the reader must watch the animation and tie it back to the text to create their own readings. The visuals and text combine to create a unique experience with the additional component of movement, which still images cannot provide. Other stories such as “Ghost in Masung Tunnel” uses aesthetics of scrolling as a way to combine the “act of doing” to engage readers through online formats.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
