@@ -13,7 +13,7 @@ address:
   postcode:
   country:
 summary:
-abstract: As Tougaw argues, the neuronovel shows the intersections of the interior brain and body to the outside world which is even more complicated when the brain is not healthy (340). Brain on Fire: My Month of Madness should be considered a neuronovel that combines case study notes with personal narrative, interviews, and video transcripts to create a patient-oriented account of Susannah Cahalan’s experience with anti-NMDA receptor encephalitis, a rare auto-immune disease. By reading the neuronovel as a form deriving from hypertext, the combination of the narrative and scientific terminology can occur simultaneously while allowing the progression of the storyline.
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
