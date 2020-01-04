@@ -5,7 +5,7 @@ title: "When the Brain Burns: Cahalan’s Brain on Fire as a Hypertext
 Neuronovel"
 event: College English Association
 event_url: http://cea-web.org/conference/
-location:
+location: Hilton Head Island, NC
 address:
   street:
   city:
