@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Restless"
-event:
-event_url:
-location:
+title: "Restless Figures: Animated Horror Stories as Hypertext"
+event: International Conference on the Fantastic in the Arts
+event_url: https://iaftfita.wildapricot.org/
+location: Orlando, FL
 address:
   street:
   city:
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-01-03T19:35:07-05:00
-date_end: 2020-01-03T19:35:07-05:00
+date: 2020-03-18T19:35:07-05:00
+date_end: 2020-03-21T19:35:07-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
