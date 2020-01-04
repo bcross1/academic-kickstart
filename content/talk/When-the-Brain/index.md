@@ -3,8 +3,8 @@
 
 title: "When the Brain Burns: Cahalan’s Brain on Fire as a Hypertext
 Neuronovel"
-event:
-event_url:
+event: College English Association
+event_url: http://cea-web.org/conference/
 location:
 address:
   street:
