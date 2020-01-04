@@ -12,7 +12,9 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: There has been an increasing interest in combining the humanities with the sciences to experiment with literary forms, including the combination of literature and neuroscience. As Tougaw argues, the neuronovel shows the intersections of the interior brain and body to the outside world which is even more complicated when the brain is not healthy (340). Brain on Fire: My Month of Madness should be considered a neuronovel that combines case study notes with personal narrative, interviews, and video transcripts to create a patient-oriented account of Susannah Cahalan’s experience with anti-NMDA receptor encephalitis, a rare auto-immune disease. By reading the neuronovel as a form deriving from hypertext, the combination of the narrative and scientific terminology can occur simultaneously while allowing the progression of the storyline. Landow argues in Hypertext 3.0 that hypertexts are noted for their focus on the reader’s interaction with the text and multiple pathways within the text that the readers must navigate (3-4). I argue that reading Brain on Fire as a hypertext that creates a multilinear structure focusing on both the personal first-person experiences of her illness alongside outside perspectives.
+Instead of a typical case study, neuronovels like Brain on Fire embrace the patient’s voice and experiences as central to the story (Ortega and Vidal 341). While Roth claims that the neuronovel must result in the loss of self, through her journalistic approach, Cahalan’s memoir focuses on regaining a sense of self through the diagnostic process. Cahalan offers qualia in her inclusion of her research, test results, and interviews with her doctors while retaining many of her experiences in the first perspective (Gaedtke).  This paper will argue reading Brain on Fire as a hypertext neuronovel creates a multilinear structure that focuses on the personal, the social, and the scientific perspectives.  
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,7 +32,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
