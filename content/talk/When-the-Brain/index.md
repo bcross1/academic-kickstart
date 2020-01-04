@@ -13,7 +13,7 @@ address:
   postcode:
   country:
 summary:
-abstract: As Tougaw argues, the neuronovel shows the intersections of the interior brain and body to the outside world which is even more complicated when the brain is not healthy (340). Brain on Fire: My Month of Madness should be considered a neuronovel that combines case study notes with personal narrative, interviews, and video transcripts to create a patient-oriented account of Susannah Cahalan’s experience with anti-NMDA receptor encephalitis, a rare auto-immune disease. I argue that reading Brain on Fire as a hypertext that creates a multilinear structure focusing on both the personal first-person experiences of her illness alongside outside perspectives. This paper will argue reading Brain on Fire as a hypertext neuronovel creates a multilinear structure that focuses on the personal, the social, and the scientific perspectives.  
+abstract: I argue that reading Brain on Fire as a hypertext that creates a multilinear structure focusing on both the personal first-person experiences of her illness alongside outside perspectives. This paper will argue reading Brain on Fire as a hypertext neuronovel creates a multilinear structure that focuses on the personal, the social, and the scientific perspectives.  
 
 
 # Talk start and end times.
