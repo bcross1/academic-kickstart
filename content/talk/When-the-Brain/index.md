@@ -13,7 +13,8 @@ address:
   postcode:
   country:
 summary:
-abstract: 
+abstract: I argue that reading Brain on Fire as a hypertext that creates a multilinear structure focusing on both the personal first-person experiences of her illness alongside outside perspectives. This paper will argue reading Brain on Fire as a hypertext neuronovel creates a multilinear structure that focuses on the personal, the social, and the scientific perspectives.  
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
